@@ -1,5 +1,9 @@
 # 随机地址生成器
 
+> **新版本已发布到 [`feature/real-addresses`](https://github.com/jiangnan1224/AddressGenerator/tree/feature/real-addresses) 分支**：地址全部来自 OpenStreetMap 中真实存在的门牌，支持住宅 / 商业地址、按当地习惯格式化、美国免税州、香港英文 / 繁体中文切换，并重新设计了页面。部署方式不变，仍然只需复制一个 `worker.js`。[查看新版说明 →](https://github.com/jiangnan1224/AddressGenerator/tree/feature/real-addresses#readme)
+>
+> [![新版页面](https://raw.githubusercontent.com/jiangnan1224/AddressGenerator/feature/real-addresses/docs/screenshots/desktop-light.png)](https://github.com/jiangnan1224/AddressGenerator/tree/feature/real-addresses#readme)
+
 ## 预览地址
 [随机地址生成器](https://addr.jiangnan24.com/)
 
